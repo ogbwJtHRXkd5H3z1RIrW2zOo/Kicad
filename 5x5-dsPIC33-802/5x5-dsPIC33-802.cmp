@@ -1,0 +1,206 @@
+Cmp-Mod V01 Created by CvPcb (2013-07-07 BZR 4022)-stable date = 14/12/2014 12:38:05
+
+BeginCmp
+TimeStamp = /54847BAC;
+Reference = 3.3V1;
+ValeurCmp = LED;
+IdModule  = Ogbw-LED-3MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /54860C9D;
+Reference = BtB1;
+ValeurCmp = CONN_6;
+IdModule  = Ogbw-PIN_ARRAY-6X1-droit;
+EndCmp
+
+BeginCmp
+TimeStamp = /54846585;
+Reference = CAN1;
+ValeurCmp = SN65HVD230D;
+IdModule  = Ogbw-SOIC-8;
+EndCmp
+
+BeginCmp
+TimeStamp = /548479FC;
+Reference = CAN_RX1;
+ValeurCmp = LED;
+IdModule  = Ogbw-LED-3MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /548479F6;
+Reference = CAN_TX1;
+ValeurCmp = LED;
+IdModule  = Ogbw-LED-3MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /54846246;
+Reference = Cp1;
+ValeurCmp = C;
+IdModule  = Ogbw-CMS-1206;
+EndCmp
+
+BeginCmp
+TimeStamp = /54846253;
+Reference = Cp2;
+ValeurCmp = C;
+IdModule  = Ogbw-CMS-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54846259;
+Reference = Cp3;
+ValeurCmp = C;
+IdModule  = Ogbw-CMS-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54847138;
+Reference = D0;
+ValeurCmp = LED;
+IdModule  = Ogbw-LED-3MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /548472F1;
+Reference = D1;
+ValeurCmp = LED;
+IdModule  = Ogbw-LED-3MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /5484730F;
+Reference = D2;
+ValeurCmp = LED;
+IdModule  = Ogbw-LED-3MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /5484731E;
+Reference = D3;
+ValeurCmp = LED;
+IdModule  = Ogbw-LED-3MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /5484732D;
+Reference = D4;
+ValeurCmp = LED;
+IdModule  = Ogbw-LED-3MM;
+EndCmp
+
+BeginCmp
+TimeStamp = /548444D5;
+Reference = DSPIC33;
+ValeurCmp = DSPIC33FJXXXMC802;
+IdModule  = Ogbw-SOIC-28;
+EndCmp
+
+BeginCmp
+TimeStamp = /5484711F;
+Reference = ICSP1;
+ValeurCmp = CONN_5;
+IdModule  = Ogbw-PIN_ARRAY-5X1-coudée;
+EndCmp
+
+BeginCmp
+TimeStamp = /54847A02;
+Reference = R3;
+ValeurCmp = R;
+IdModule  = Ogbw-CMS-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54847A08;
+Reference = R4;
+ValeurCmp = R;
+IdModule  = Ogbw-CMS-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54847BB2;
+Reference = R6;
+ValeurCmp = R;
+IdModule  = Ogbw-CMS-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54861B0F;
+Reference = Rc1;
+ValeurCmp = R;
+IdModule  = Ogbw-CMS-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54847145;
+Reference = Rd0;
+ValeurCmp = R;
+IdModule  = Ogbw-CMS-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /548472F7;
+Reference = Rd1;
+ValeurCmp = R;
+IdModule  = Ogbw-CMS-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54847315;
+Reference = Rd2;
+ValeurCmp = R;
+IdModule  = Ogbw-CMS-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54847324;
+Reference = Rd3;
+ValeurCmp = R;
+IdModule  = Ogbw-CMS-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54847333;
+Reference = Rd4;
+ValeurCmp = R;
+IdModule  = Ogbw-CMS-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /548459A3;
+Reference = Rp1;
+ValeurCmp = R;
+IdModule  = Ogbw-CMS-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /548D6E8A;
+Reference = T1;
+ValeurCmp = TROU;
+IdModule  = Ogbw-Trou-mécanique;
+EndCmp
+
+BeginCmp
+TimeStamp = /548D6E97;
+Reference = T2;
+ValeurCmp = TROU;
+IdModule  = Ogbw-Trou-mécanique;
+EndCmp
+
+BeginCmp
+TimeStamp = /548D6E9D;
+Reference = T3;
+ValeurCmp = TROU;
+IdModule  = Ogbw-Trou-mécanique;
+EndCmp
+
+BeginCmp
+TimeStamp = /548D6EA3;
+Reference = T4;
+ValeurCmp = TROU;
+IdModule  = Ogbw-Trou-mécanique;
+EndCmp
+
+EndListe
