@@ -39,5 +39,15 @@ $RECYCLE.BIN/
 .AppleDB
 .AppleDesktop
 Network Trash Folder
+
+# ========================
+# Kicad temp files
+# ========================
+
+*.bak
+*.000
+*.kicad_pcb-bak
+*.bck
+*/Gerber/*
 Temporary Items
 .apdisk
